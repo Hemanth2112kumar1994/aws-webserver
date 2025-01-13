@@ -1,6 +1,7 @@
 # Portfolio Website
 
-Hello ! Hemanth Kumar s Here!   
+Hello! Hemanth Kumar s Here!   
+
 This is the Portfolio Website and below is simple webserver
 ![image](https://github.com/user-attachments/assets/a7a045c0-3d82-4c9d-9e35-88e12c6c5df6)
 
